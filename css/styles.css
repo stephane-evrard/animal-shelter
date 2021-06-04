@@ -52,16 +52,13 @@ section article{
     border-radius: 15px;
     box-shadow: 0 5px 10px black;
 }
-/*-------------- Mobile Screen ----------------*/ 
+
+
 @media (max-width: 500px) {
     body{
         background-color: limegreen;
     }
-    #mobile h1{
-        display: block;
-    }
 }
-
 @media (min-width: 501px) and (max-width: 768px) {
     body{
         background-color: orangered ;
